@@ -1,0 +1,11 @@
+# Dataset stays out of the repo (assignment rule; records are not ours to publish)
+data/
+*.text
+.venv/
+.ipynb_checkpoints/
+screenshots/
+spark-warehouse/
+metastore_db/
+derby.log
+__pycache__/
+.DS_Store
